@@ -1,5 +1,5 @@
 # LightDx.DirectX11Tutorials
-This repository provides DirectX 11 Tutorial (http://rastertek.com/tutdx11.html) ported to C# and LightDx.
+This repository provides DirectX 11 Tutorial (http://rastertek.com/tutdx11.html) ported to C# and [LightDx](https://github.com/acaly/LightDx).
 
 Although LightDx has a simple API, I believe it'll be helpful to provide more examples. You can easily 
 find how to use the library here. 
