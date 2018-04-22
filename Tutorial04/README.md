@@ -4,4 +4,4 @@ Original link: [http://www.rastertek.com/dx11tut04.html](http://www.rastertek.co
 
 Screenshot:
 
-![Screenshot](Tutorial04/Tutorial04.png)
+![Screenshot](Tutorial04.png)
