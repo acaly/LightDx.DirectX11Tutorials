@@ -51,7 +51,8 @@ namespace Tutorial21
                 // Target & Pipeline
                 //---------------------
 
-                var target = new RenderTarget(device.GetDefaultTarget());
+                var target = new RenderTarget(device.GetDefaultTarget(),
+                    device.CreateDefaultDepthStencilTarget());
                 target.Apply();
 
                 Pipeline pipeline = device.CompilePipeline(InputTopology.Triangle,
